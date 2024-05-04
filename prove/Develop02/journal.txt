@@ -1,0 +1,12 @@
+[
+  {
+    "Date": "4/5/2024",
+    "Prompt": "Did I learn something new today? If so, what was it?",
+    "Response": "I learned patience."
+  },
+  {
+    "Date": "4/5/2024",
+    "Prompt": "Who was the most interesting person I interacted with today?",
+    "Response": "With Marcelo Arrieta, the Institute teacher."
+  }
+]
