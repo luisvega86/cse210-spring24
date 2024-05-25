@@ -1,0 +1,3 @@
+30
+SimpleGoal:Call mom,Make a phone call or video call to mom for 5 min,30,True
+ChecklistGoal:Do sports,Excercise for at least 20 min in any sport,20,5,100,0
